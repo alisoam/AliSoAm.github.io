@@ -13,7 +13,7 @@ theme = "aerial"
 [[params.social]]
   medium = "CV"
   icon = "file-pdf-o"
-  link = "https://ali_sorouramini.gitlab.io/cv/cv.pdf"
+  link = "https://alisoam.github.io/cv/english_cv.pdf"
 
 [[params.social]]
   medium = "LinkedIn"
