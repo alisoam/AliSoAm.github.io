@@ -1,0 +1,3 @@
+[submodule "src/hugo-goa"]
+	path = src/hugo-goa
+	url = https://github.com/AliSoAm/hugo-goa.git

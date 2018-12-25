@@ -4,15 +4,12 @@ addons:
     packages:
       - python-pygments
 
-# Clean and don't fail
-install:
-  - rm -rf public || exit 0
-
 # Build the website
 script:
+  - mkdir public
   - chmod 770 ./binaries/hugo
-  - ./binaries/hugo -s src -d .
-  - cp ./src/google4a768c937c82c1de.html public
+  - ./binaries/hugo
+  - cp google4a768c937c82c1de.html public
 # Deploy to GitHub pages
 deploy:
   provider: pages
