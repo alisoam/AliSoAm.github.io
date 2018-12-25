@@ -26,7 +26,7 @@ theme = "aerial"
   link = "https://github.com/AliSoAm"
 
 [[params.social]]
-  medium = "Email"
+  medium = "Telegram"
   icon = "telegram"
   link = "https://t.me/AliSoAm"
 
