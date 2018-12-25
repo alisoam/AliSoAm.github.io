@@ -1,4 +1,6 @@
-baseurl = "https://alisoam.github.io"
+## Basic Configuration
+
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -7,8 +9,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Ali Sorour Amini"
-title = "Ali Sorour Amini"
+author = "Erlich Bachman"
+title = "Erlich Bachman"
 
 theme = "hugo-goa"
 
@@ -19,8 +21,10 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Ali Sorour Amini"
-
+author = "Erlich Bachman"
+intro = "Startup Guru Extraordinaire"
+description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -30,13 +34,41 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "AliSoAm"
-linkedin = "AliSoAm"
-email = "ali.sorouramini@gmail.com"
+github = "<username>"
+instagram = "<username>"
+xing = "<username>"
+linkedin = "<username>"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+stackoverflow = "<username>"
+lastfm = "<username>"
+goodreads = "<username>"
+gitlab = "<username>"
+bitbucket = "<username>"
+fivehundredpx = "<username>"
+flickr = "<username>"
+foursquare = "<username>"
+hackernews = "<username>"
+kickstarter = "<username>"
+patreon = "<username>"
+pintrest = "<username>"
+steam = "<username>"
+reddit = "<username>"
+snapchat = "<username>"
+youtube = "<username>"
+keybase = "<username>"
+twitch = "<username>"
+soundcloud = "<username>"
+tumblr = "<username>"
+skype = "<username>"
+telegram = "<username>"
+whatsapp = "<username>"
+email = "you@example.com"
 
 ## Extras
 [params.extra]
-copyright = ""
+copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true
@@ -52,3 +84,8 @@ socialmarkup = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
