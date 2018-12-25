@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "Ali Sorour Amini"
 baseurl = "https://alisoam.github.io/"
 theme = "aerial"
 
@@ -30,4 +30,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "ali.sorouramini@gmail.com"
+  link = "mailto:ali.sorouramini@gmail.com"
