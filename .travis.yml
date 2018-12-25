@@ -11,7 +11,7 @@ install:
 # Build the website
 script:
   - chmod 770 ./binaries/hugo
-  - ./binaries/hugo
+  - ./binaries/hugo -s src
   - cp ./src/google4a768c937c82c1de.html public
 # Deploy to GitHub pages
 deploy:
