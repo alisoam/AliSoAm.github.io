@@ -1,4 +1,4 @@
-baseurl = "https://alisoam.github.io/site/"
+baseurl = "https://alisoam.github.io"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
