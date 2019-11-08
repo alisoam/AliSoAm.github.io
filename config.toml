@@ -13,7 +13,7 @@ theme = "aerial"
 [[params.social]]
   medium = "CV"
   icon = "file-pdf-o"
-  link = "https://alisoam.github.io/cv/english/ali_sorouramini.pdf"
+  link = "https://alisoam.github.io/cv/english_cv/ali_sorouramini.pdf"
 
 [[params.social]]
   medium = "LinkedIn"
@@ -26,9 +26,9 @@ theme = "aerial"
   link = "https://github.com/AliSoAm"
 
 [[params.social]]
-  medium = "Telegram"
-  icon = "telegram"
-  link = "https://t.me/AliSoAm"
+  medium = "Gitlab"
+  icon = "gitlab"
+  link = "https://gitlab.com/AliSoAm"
 
 [[params.social]]
   medium = "Email"
