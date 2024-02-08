@@ -10,10 +10,6 @@ theme = "aerial"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
-[[params.social]]
-  medium = "CV"
-  icon = "file-pdf-o"
-  link = "https://alisoam.github.io/cv/english_cv/ali_sorouramini.pdf"
 
 [[params.social]]
   medium = "LinkedIn"
@@ -24,13 +20,3 @@ theme = "aerial"
   medium = "Github"
   icon = "github"
   link = "https://github.com/AliSoAm"
-
-[[params.social]]
-  medium = "Gitlab"
-  icon = "gitlab"
-  link = "https://gitlab.com/AliSoAm"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:ali.sorouramini@gmail.com"
